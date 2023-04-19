@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BYAe61F4LIMJ3OTkwG9JctfbOtDy+v0KHX+aPQA898SPYxUundc8gWdwYaeamtOQOALE/vtHCw5xxs8Zw8XJ4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASHAN\\source\\repos\\Hotel_Management\\Resturent\\Resturent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASHAN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\7.0.5\\microsoft.extensions.apidescription.server.7.0.5.nupkg.sha512",
+    "C:\\Users\\ASHAN\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ASHAN\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ASHAN\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\ASHAN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\ASHAN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
